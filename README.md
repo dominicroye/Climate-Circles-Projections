@@ -10,8 +10,27 @@ This is why I made this chart recently for some cities, see more in my blog post
 
 In this new repository I made animation with climate change projections based on CMIP6 for selected cities using the SSP2-4.5 (~ 2.5ºC) and SSP5-5.8 (~ 5ºC) pathways. 
 
+|                         |
+|-------------------------|
+| [Barcelona](#Barcelona) |
+| [Madrid](#Madrid)       |
+| [Paris](#Paris)         |
 
-## Spain
+
+
+## Barcelona
 
 ![](Spain/CC_Barcelona_SSP585.gif)
 ![](Spain/CC_Barcelona_SSP245.gif)
+
+
+## Madrid
+
+![](Spain/CC_Madrid_SSP585.gif)
+![](Spain/CC_Madrid_SSP245.gif)
+
+
+## Paris
+
+![](France/CC_Paris_SSP585.gif)
+![](France/CC_Paris_SSP245.gif)
