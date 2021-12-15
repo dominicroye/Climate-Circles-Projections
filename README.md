@@ -18,7 +18,8 @@ In this new repository I made animation with climate change projections based on
 | [Berlin](#Berlin)       |
 | [Rome](#Rome)           |
 | [New York](#NewYork)    |
-
+| [London](#London)       |
+| [Valencia](#Valencia)   |
 
 
 ## Barcelona
@@ -52,3 +53,13 @@ In this new repository I made animation with climate change projections based on
 
 ![](USA/CC_NewYork_SSP585.gif)
 ![](USA/CC_NewYork_SSP245.gif)
+
+## Valencia
+
+![](Spain/CC_Valencia_SSP585.gif)
+![](Spain/CC_Valencia_SSP245.gif)
+
+## London
+
+![](UK/CC_London_SSP585.gif)
+![](UK/CC_London_SSP245.gif)
